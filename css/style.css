@@ -481,7 +481,7 @@ ol {
 }
 
 .hero__text span {
-  color: #ffffff;
+  color: #53ffab;
   display: block;
   font-size: 15px;
   letter-spacing: 2px;
@@ -495,7 +495,7 @@ ol {
   transition: all, 0.3s;
 }
 .hero__text h2 {
-  color: #ffffff;
+  color: #e4e8ec;
   font-size: 60px;
   font-weight: 700;
   line-height: 70px;
